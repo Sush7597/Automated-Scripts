@@ -1,5 +1,5 @@
-# Automated-Scripts
-Automated Scripts using Puppeteer and Selenium.
+# Automation-Scripts
+Automation Scripts using Puppeteer and Selenium.
 
 FaceBook - Logins via Credentials in credentials.json -> navigates to the destination page -> likes first n posts on the page.
 
