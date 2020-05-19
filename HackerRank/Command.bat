@@ -1,2 +1,2 @@
 cls
-node index-Puppeteer Credentials.json Sush7597
+node index-Puppeteer Credentials.json "Username to be added"
